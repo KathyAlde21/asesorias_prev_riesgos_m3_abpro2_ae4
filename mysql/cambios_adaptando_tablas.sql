@@ -1,5 +1,5 @@
 -- ========================================================================
--- ABPRO AE4 – MODELO ENTIDAD RELACIÓN (DDL) - CAMBIOS SIN ELIMINAR TABLAS 
+-- ABPRO2 AE4 – MODELO ENTIDAD RELACIÓN (DDL) - CAMBIOS SIN ELIMINAR TABLAS 
 -- Autores: Giorgio Interdonato, Katherine Alderete, Katrina González
 -- Generado en MySQL según modelo Crow’s Foot
 -- ========================================================================

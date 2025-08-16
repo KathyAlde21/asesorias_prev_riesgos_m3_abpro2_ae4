@@ -1,5 +1,5 @@
 -- =============================================================
--- ABPRO AE4 – MODELO ENTIDAD RELACIÓN (DDL) - TABLA INICIAL
+-- ABPRO2 AE4 – MODELO ENTIDAD RELACIÓN (DDL) - TABLA INICIAL
 -- Autores: Giorgio Interdonato, Katherine Alderete, Katrina González
 -- Generado en MySQL según modelo Crow’s Foot
 -- =============================================================

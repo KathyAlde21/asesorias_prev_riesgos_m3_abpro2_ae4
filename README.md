@@ -252,7 +252,7 @@ SHOW CREATE TABLE accidente;
 **<h3>📁 Estructura del Proyecto:</h3>**
 
 ```
-📁ventas_m4_abp_ae4-1_kagika
+📁ventas_m3_abp_ae4-1_kagika
 └── README.md
 └── 📁img
 │    ├── 📁wireframes
